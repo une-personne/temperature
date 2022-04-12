@@ -1,5 +1,5 @@
 {
-    "name": "exo2",
+    "name": "temperature",
     "description": "",
     "dependencies": {
         "core": "*",
